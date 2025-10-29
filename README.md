@@ -1,2 +1,2 @@
-# Tac-tac-toe-
+# Tic-tac-toe-
 tictactoe with LAN texnology
